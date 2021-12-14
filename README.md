@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @menelaia
+- 👀 I’m interested in everything JavaScript
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on interesting UI projects
+- 📫 Reach me: [@menelaiadotjsx](https://twitter.com/menelaiadotjsx)
